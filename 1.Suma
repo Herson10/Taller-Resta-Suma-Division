@@ -11,11 +11,13 @@ Algoritmo Calculadore
 	Leer n2
 	Escribir""
 	resultado = n1+n2;
-	Escribir "La suma es: ", resultado
+	Escribir "La suma es: ", resultado;
 	resultado = n1-n2;
-	Escribir "La resta es: ", resultado
+	Escribir "La resta es: ", resultado;
 	resultado = n1*n2;
-	Escribir "La multiplicacion es: ", resultado
+	Escribir "La multiplicacion es: ", resultado;
+	resultado = n1/n2;
+	Escribir "La division es: ", resultado;
 	
 	
 	
