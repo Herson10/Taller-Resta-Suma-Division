@@ -14,6 +14,8 @@ Algoritmo Calculadore
 	Escribir "La suma es: ", resultado
 	resultado = n1-n2;
 	Escribir "La resta es: ", resultado
+	resultado = n1*n2;
+	Escribir "La multiplicacion es: ", resultado
 	
 	
 	
