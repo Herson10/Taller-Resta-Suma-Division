@@ -12,6 +12,9 @@ Algoritmo Calculadore
 	Escribir""
 	resultado = n1+n2;
 	Escribir "La suma es: ", resultado
+	resultado = n1-n2;
+	Escribir "La resta es: ", resultado
+	
 	
 	
 	
