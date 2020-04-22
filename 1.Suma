@@ -1,0 +1,18 @@
+Algoritmo Calculadore
+	
+	Definir n1 Como Entero;
+	Definir n2 Como Entero;
+	Definir resultado Como Entero;
+	Definir tabla Como Entero;
+	
+	Escribir "Digite su primer numero";
+	Leer n1
+	Escribir "Digite su segundo numero";
+	Leer n2
+	Escribir""
+	resultado = n1+n2;
+	Escribir "La suma es: ", resultado
+	
+	
+	
+FinAlgoritmo
